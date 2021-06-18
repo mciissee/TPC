@@ -1,0 +1,10 @@
+int array1[10];
+int c;
+
+void f() {
+
+}
+int main() {
+    c[0] = 10;
+    array1[f()] = 10;
+}

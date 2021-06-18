@@ -1,0 +1,21 @@
+a = 10;
+const b = 'b';
+const  = 10;
+const 10;
+const d, e f;
+
+int h = 10;
+char ;
+
+void print_zero_to_n(int n){
+	int i = 0; 
+	while(i < ){
+		print(i); 
+		i = i + 1; 
+	}
+}
+
+
+int main() {
+    return 0;
+}

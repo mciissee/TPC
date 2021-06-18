@@ -1,0 +1,10 @@
+const a = '1';
+const b = 'C';
+
+int e;
+char f;
+char g, h, i;
+
+int main() {
+    return 0;
+}

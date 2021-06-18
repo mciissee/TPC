@@ -1,0 +1,9 @@
+int array[10];
+int i;
+int main() {
+    array[0] = 1;
+    array[1] = 2;
+    i = array[1];
+    array[i] = 10;
+
+}

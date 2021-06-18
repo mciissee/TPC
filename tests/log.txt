@@ -1,0 +1,12 @@
+recovery/recovery.tpc: passed
+bad/array.tpc: passed
+bad/function_call.tpc: passed
+bad/missing_main.tpc: passed
+bad/redefinition.tpc: passed
+bad/undeclared.tpc: passed
+good/array.tpc: passed
+good/declaration.tpc: passed
+good/functions.tpc: passed
+good/print.tpc: passed
+tests passed: 10
+tests failed: 0
